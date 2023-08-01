@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Group 3](https://github.com/tr-youssef/tr-youssef/assets/58892168/1c3aa611-b66d-4821-b7b2-f4820d6ec482)
 <!--
 **tr-youssef/tr-youssef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
